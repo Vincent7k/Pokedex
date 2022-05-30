@@ -2,4 +2,4 @@
 
 *Projeto desenvolvido em HTML,CSS e JavaScript
 
-<img src="images/Pokedex.png" alt="Print-Pokedex">
+<img src="src/images/Pokedex.png" alt="Print-Pokedex">
